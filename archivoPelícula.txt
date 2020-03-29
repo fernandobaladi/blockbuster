@@ -1,0 +1,14 @@
+741852,Frozen,Comedia,,
+985624,It,Drama,V27814624,02/12/2019
+885457,Once upon a time in Hollywood,Drama,,
+125498,Big six heroes,Comedia,,
+689587,Joker,Drama,,
+741859,Contra lo imposible,Deportivo,V27814624,02/20/1920
+148523,Bolívariano,Comedia,,
+501878,Bourne, el ultimátum,,
+123564,Coco,Comedia,,
+111111,Gladiator,Drama,V27814624,28/03/2021
+222222,Toy Story,Comedia,V27814624,22/02/2020
+333333,Space jam: El juego del siglo,Deportivo,,
+444444,Miranda Inmortal,Cultural,,
+343534,Peliculon,Cultural,,
